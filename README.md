@@ -182,11 +182,20 @@ This helps identify:
 * Distribution gaps
 
 
-## Screenshot 3 — Distribution Analysis
+## Screenshot 1 — Distribution Analysis
 
 This analysis examines product distribution across outlets.
 
 <img width="289" height="253" alt="image" src="https://github.com/user-attachments/assets/8d430576-da5f-4f74-b73d-0b6f18e00f27" />
+
+## Screenshot 2 — Product Analysis
+
+This analysis identifies product sales performance.
+
+## Screenshot 2 — Sales Analysis
+
+This analysis shows sales performance across the business.
+
 
 
 # Key Business Insights
