@@ -186,17 +186,20 @@ This helps identify:
 
 This analysis examines product distribution across outlets.
 
-<img width="289" height="253" alt="image" src="https://github.com/user-attachments/assets/8d430576-da5f-4f74-b73d-0b6f18e00f27" />
+<img width="487" height="521" alt="image" src="https://github.com/user-attachments/assets/125b8c3a-f4a1-4097-afd9-b1625e329ca2" />
+
 
 ## Screenshot 2 — Product Analysis
 
 This analysis identifies product sales performance.
+<img width="487" height="643" alt="image" src="https://github.com/user-attachments/assets/86ab8884-c860-4733-ab83-e5dfede94e1f" />
+
 
 ## Screenshot 2 — Sales Analysis
 
 This analysis shows sales performance across the business.
 
-
+<img width="450" height="414" alt="image" src="https://github.com/user-attachments/assets/7740f028-d5b1-4b42-bade-3ece0e690755" />
 
 # Key Business Insights
 The SQL analysis can be used to identify several important FMCG business opportunities.
