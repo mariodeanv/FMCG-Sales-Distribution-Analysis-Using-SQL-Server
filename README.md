@@ -182,33 +182,12 @@ This helps identify:
 * Distribution gaps
 
 
-# Query Results
-
-The following screenshots show examples of the SQL analysis performed in SQL Server Management Studio.
-
-## Screenshot 1 — Product Analysis
-
-This analysis identifies product sales performance.
-
-![Product Analysis](Screenshots/01_Product_Analysis.png)
-
----
-
-## Screenshot 2 — Sales Analysis
-
-This analysis shows sales performance across the business.
-
-![Sales Analysis](Screenshots/02_Sales_Analysis.png)
-
----
-
 ## Screenshot 3 — Distribution Analysis
 
 This analysis examines product distribution across outlets.
 
-![Distribution Analysis](Screenshots/03_Distribution_Analysis.png)
+<img width="289" height="253" alt="image" src="https://github.com/user-attachments/assets/8d430576-da5f-4f74-b73d-0b6f18e00f27" />
 
----
 
 # Key Business Insights
 The SQL analysis can be used to identify several important FMCG business opportunities.
