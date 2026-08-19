@@ -1,0 +1,3 @@
+/* 1. Display all products. */
+SELECT *
+FROM Products;
